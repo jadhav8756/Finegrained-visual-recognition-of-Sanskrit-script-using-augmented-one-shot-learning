@@ -1,0 +1,2 @@
+# Finegrained-visual-recognition-of-Sanskrit-script-using-augmented-one-shot-learning
+The process of learning good features in visual recognition is computationally expensive. In many applications, It is difficult to collect lot of data. Creating training data to recognize Sanskrit data is a humongous task to alleviate the aforementioned problems. So we used one-shot learning method in which only one training sample for every category is sufficient. One example on one-shot is Siamese neural network in which we applied the Siamese network to recognize Sanskrit character.
